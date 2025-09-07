@@ -1,0 +1,112 @@
+{
+  "createdTime": "2013-10-21T22:54:52.144Z",
+  "modifiedTime": "2024-12-03T21:40:17.596Z",
+  "deviceSettings": [{
+    "deviceTag": -1062101912,
+    "reportingEnabled": false,
+    "legalCountryCode": "jp",
+    "devicePrettyName": "iPhone",
+    "platformType": "IOS",
+    "deviceCreationTime": "2024-11-28T09:07:22.626Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-12-02T00:06:52.281Z"
+    },
+    "iosVersion": "18.6",
+    "deviceSpec": {
+      "device": "iPhone16,1"
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": true
+    }
+  }, {
+    "deviceTag": -307343392,
+    "reportingEnabled": false,
+    "devicePrettyName": "SM-A528B",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2024-06-02T01:47:29.194Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-12-03T21:40:17.596Z"
+    },
+    "androidOsLevel": 32,
+    "deviceSpec": {
+      "manufacturer": "Samsung",
+      "brand": "Samsung",
+      "product": "SM-A528B",
+      "device": "SM-A528B",
+      "model": "SM-A528B",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": false
+    }
+  }, {
+    "deviceTag": -2049804325,
+    "reportingEnabled": false,
+    "legalCountryCode": "jp",
+    "devicePrettyName": "iPad",
+    "platformType": "IOS",
+    "deviceCreationTime": "2024-04-09T13:00:56.293Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-04-09T13:00:56.293Z"
+    },
+    "iosVersion": "18.5",
+    "deviceSpec": {
+      "device": "iPad13,1"
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": false
+    }
+  }, {
+    "deviceTag": 512926722,
+    "reportingEnabled": false,
+    "legalCountryCode": "jp",
+    "devicePrettyName": "iPhone",
+    "platformType": "IOS",
+    "deviceCreationTime": "2022-12-17T08:28:52.694Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-12-03T21:40:17.596Z"
+    },
+    "iosVersion": "18.0.1",
+    "deviceSpec": {
+      "device": "iPhone14,5"
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true
+    }
+  }],
+  "hasReportedLocations": true,
+  "hasSetRetention": false,
+  "storeVisitControl": {
+    "enabled": true,
+    "updateTime": "2022-07-18T20:05:04.549131474Z"
+  },
+  "encryptedBackupsControls": {
+    "-1062101912": {
+      "enabled": true,
+      "updateTime": "2024-12-03T15:41:05.890914431Z"
+    },
+    "-307343392": {
+      "enabled": false
+    },
+    "512926722": {
+      "enabled": false
+    },
+    "-2049804325": {
+      "enabled": false
+    }
+  },
+  "retentionControl": {
+    "retentionWindowDays": 2147483647
+  },
+  "timelineEnabled": true,
+  "timelineDeletionTime": "2024-12-05T03:38:36.740Z",
+  "latestTimelineSettingChange": {
+    "timelineEnabledModificationTime": "2023-04-28T06:02:22.590Z"
+  },
+  "googleOpinionRewardsControl": {
+    "enabled": false,
+    "updateTime": "2024-08-06T02:22:07.224461232Z"
+  }
+}
